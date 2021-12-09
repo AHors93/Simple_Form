@@ -1,0 +1,1 @@
+Final vanilla JS project, added some CSS and animations for the first time too!
